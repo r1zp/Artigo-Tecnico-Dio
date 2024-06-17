@@ -15,13 +15,7 @@ O Artigo Tecnico é um projeto gerado por Inteligência Artificial, os tipos de 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  |  crie 10 headline para nomes de artigos sobre o assunto Java  |
-| conteúdo |comporta-se como um escritor de artigos front-end e escreva arquivos atentando as regras abaixo
-{regras} 
-no máximo 5 linhas por bloco
-cite exemplos com  código java
-me explique de maneira informal, como se eu fosse uma criança de 10 anos 
-os blocos que serão criados estão abaixo
- |
+| conteúdo |comporta-se como um escritor de artigos front-end e escreva arquivos atentando as regras abaixo{regras} no máximo 5 linhas por bloco cite exemplos com  código java me explique de maneira informal, como se eu fosse uma criança de 10 anos os blocos que serão criados estão abaixo|
 
 - Lexica
 
